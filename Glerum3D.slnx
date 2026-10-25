@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="pool_cap.scad" />
+    <File Path="pool_cap.stl" />
+  </Folder>
+  <Project Path="Glerum3D.csproj" />
+</Solution>
